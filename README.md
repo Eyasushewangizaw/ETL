@@ -1,3 +1,28 @@
-# ETL
+## Automated Data Pipeline using Airflow and Cloud Composer
+# Project Summary
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8ca47a75-0b93-45e8-8601-2682f97861d6" />
+
+I built and automated a data pipeline using Google Cloud Composer (Apache Airflow). The objective was to automatically extract raw data, transform, and load it so that the analytics team could leverage it.
+
+
+# Workflow
+
+
+I wrote some Python code to connect to the data source, retrieve the data, and save it to Cloud Storage.
+
+
+The Cloud Data Fusion service processes and transforms the data.
+
+
+The clean data is then loaded into BigQuery as the main data warehouse.
+
+
+I connected Looker to BigQuery for the purposes of reporting and dashboards.
+
+
+I used Cloud Composer (Airflow) to orchestrate the whole workflow and schedule all the extraction, loading, transformation, and dashboard refresh in an automated fashion.
+
+
+
+
+<img width="832" height="483" alt="ORIGINAL drawio" src="https://github.com/user-attachments/assets/557f06f9-9bd6-4a87-823b-0c596a2d981d" />
