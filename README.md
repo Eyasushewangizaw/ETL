@@ -23,6 +23,5 @@ I connected Looker to BigQuery for the purposes of reporting and dashboards.
 I used Cloud Composer (Airflow) to orchestrate the whole workflow and schedule all the extraction, loading, transformation, and dashboard refresh in an automated fashion.
 
 
+<img width="929" height="512" alt="PJCT drawio" src="https://github.com/user-attachments/assets/01a082fb-c152-4aad-ad07-541394a17079" />
 
-
-<img width="832" height="483" alt="ORIGINAL drawio" src="https://github.com/user-attachments/assets/557f06f9-9bd6-4a87-823b-0c596a2d981d" />
