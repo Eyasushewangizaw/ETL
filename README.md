@@ -8,17 +8,14 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 # Workflow
 
 
-I wrote some Python code to connect to the data source, retrieve the data, and save it to Cloud Storage.
+I wrote a Python script to extract data and store it in Cloud Storage.
 
 
-The Cloud Data Fusion service processes and transforms the data.
+The data is processed and transformed in Cloud Data Fusion.
 
+Clean data is loaded into BigQuery as the central warehouse.
 
-The clean data is then loaded into BigQuery as the main data warehouse.
-
-
-I connected Looker to BigQuery for the purposes of reporting and dashboards.
-
+Looker is connected to BigQuery for reporting and dashboards.
 
 I used Cloud Composer (Airflow) to orchestrate the whole workflow and schedule all the extraction, loading, transformation, and dashboard refresh in an automated fashion.
 
