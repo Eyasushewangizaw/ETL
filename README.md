@@ -7,7 +7,7 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 
 # Workflow
 
-a) I wrote a Python script to generate and extract dummy employee data, which I then stored in Google Cloud Storage as the raw landing zone.
+**a)** I wrote a Python script to generate and extract dummy employee data, which I then stored in Google Cloud Storage as the raw landing zone.
 
 b) I used Cloud Data Fusion to clean and transform the employee dataset. This step involved standardizing fields, handling missing values, and preparing the data for downstream analysis.
 
