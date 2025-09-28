@@ -1,4 +1,4 @@
-### Automated Data Pipeline using Airflow and Cloud Composer
+## Automated Data Pipeline using Airflow and Cloud Composer
 ## Project Summary
 
 
