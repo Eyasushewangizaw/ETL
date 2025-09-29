@@ -28,3 +28,8 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 <img width="929" height="512" alt="PJCT drawio" src="https://github.com/user-attachments/assets/01a082fb-c152-4aad-ad07-541394a17079" />
 
 
+
+<img width="1920" height="976" alt="Screenshot 2025-09-28 145438" src="https://github.com/user-attachments/assets/8a7c7736-552d-463a-9818-d0a40e77edbf" />
+
+
+
