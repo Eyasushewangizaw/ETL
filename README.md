@@ -22,5 +22,19 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 **E)** Finally, I automated the entire pipeline — from extraction to visualization — using Cloud Composer (Apache Airflow), ensuring the process runs seamlessly without manual intervention.
 
 
+
+## Architecture Diagram
+
 <img width="929" height="512" alt="PJCT drawio" src="https://github.com/user-attachments/assets/01a082fb-c152-4aad-ad07-541394a17079" />
 
+
+
+
+
+<img width="1920" height="976" alt="Screenshot 2025-09-28 145438" src="https://github.com/user-attachments/assets/8a7c7736-552d-463a-9818-d0a40e77edbf" />
+
+
+
+
+
+<img width="1700" height="756" alt="Screenshot 2025-09-29 024134" src="https://github.com/user-attachments/assets/8d1d4dd0-0e13-46a8-93b0-3682aa38e511" />
