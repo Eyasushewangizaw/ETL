@@ -7,7 +7,7 @@ from google.oauth2 import service_account
 # -------------------------------
 # Configuration
 # -------------------------------
-CREDENTIALS_PATH = r"C:\ETL2\eyasuproject-e8cac136bbf0.json"  # Path to your GCP service account JSON
+CREDENTIALS_PATH = r"C:\ETL2\eyasuproject-e8cac136bbf0.json" 
 BUCKET_NAME = "originalbuck"
 DESTINATION_BLOB_NAME = "dummy_employees1.csv"  # Name in GCS
 
