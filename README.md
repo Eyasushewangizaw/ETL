@@ -13,6 +13,7 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 **B)** I used Cloud Data Fusion to clean and transform the employee dataset. This step involved standardizing fields, handling missing values, and preparing the data for downstream analysis.
 
 
+
 **C)** After transformation, I loaded the clean employee data into BigQuery, which served as the central warehouse for analytics.
 
 
@@ -28,13 +29,19 @@ I built and automated a data pipeline using Google Cloud Composer (Apache Airflo
 <img width="929" height="512" alt="PJCT drawio" src="https://github.com/user-attachments/assets/01a082fb-c152-4aad-ad07-541394a17079" />
 
 
-
-
+## Cloud Data Fusion ETL pipeline
 
 <img width="1920" height="976" alt="Screenshot 2025-09-28 145438" src="https://github.com/user-attachments/assets/8a7c7736-552d-463a-9818-d0a40e77edbf" />
 
 
-
+## Airflow Automation 
 
 
 <img width="1700" height="756" alt="Screenshot 2025-09-29 024134" src="https://github.com/user-attachments/assets/8d1d4dd0-0e13-46a8-93b0-3682aa38e511" />
+
+
+
+## Visualization Report
+
+<img width="1175" height="706" alt="Screenshot 2025-09-28 153033" src="https://github.com/user-attachments/assets/95e3a713-a417-4664-8131-b098befb5533" />
+
